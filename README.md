@@ -1,5 +1,13 @@
 # Olá ! Eu sou a Glauce Camargo <h1>
 
+   <h4>... Escolha caminhos fora do normal, caminhos que você nunca imaginou
+  
+  que trilharia e descubra coisas incríveis sobre o mundo...
+ 
+ 
+ 
+ 
+ 
  ![](https://pandao.github.io/editor.md/examples/images/4.jpg)
  
  
